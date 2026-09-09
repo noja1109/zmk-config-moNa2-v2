@@ -36,7 +36,7 @@ layers:
   - /
   - LCTRL
   - LEFT WIN
-  - F16
+  - LEFT ALT
   - BACKSPACE
   - {t: ENTER, h: '2'}
   - {t: '&to_layer_0 LANG2', h: '3'}
