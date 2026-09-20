@@ -8,41 +8,41 @@ layers:
   - T
   - Y
   - U
-  - {t: I, h: '6'}
+  - {t: I, h: '3'}
   - O
-  - {t: P, h: '5'}
+  - {t: P, h: '3'}
   - A
   - S
   - D
   - F
   - G
-  - F13
+  - +
   - H
   - J
   - K
   - L
-  - ;
+  - ','
   - {t: Z, h: LEFT SHIFT}
   - X
   - C
   - V
   - B
-  - {t: '#', h: '4'}
-  - F15
+  - {t: '@', h: '4'}
+  - '-'
   - N
   - M
-  - ','
-  - .
-  - /
+  - '&mkp MB1'
+  - '&mkp MB2'
+  - {t: ., h: '3'}
   - LCTRL
   - LEFT WIN
   - LEFT ALT
-  - BACKSPACE
-  - {t: ENTER, h: '2'}
+  - {t: BACKSPACE, h: DEL}
+  - {t: SPACE, h: '2'}
   - {t: '&to_layer_0 LANG2', h: '3'}
   - {t: '&to_layer_0 LANG1', h: '3'}
-  - {t: SPACE, h: '1'}
-  - LEFT ALT
+  - {t: ENTER, h: '1'}
+  - ESCAPE
   '1':
   - '1'
   - '2'
@@ -137,7 +137,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - HOME
-  - UP ARROW
+  - {t: UP ARROW, type: held}
   - END
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -168,7 +168,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -225,7 +225,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - '&mkp MB3'
   - '&mkp MB2'
@@ -266,7 +266,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
