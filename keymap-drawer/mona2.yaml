@@ -8,7 +8,7 @@ layers:
   - T
   - Y
   - U
-  - {t: I, h: '3'}
+  - I
   - O
   - {t: P, h: '3'}
   - A
@@ -63,11 +63,11 @@ layers:
   - {t: ▽, type: trans}
   - (
   - )
-  - {t: ▽, type: trans}
+  - ;
   - \
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - '"'
+  - ''''
   - '"'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -137,9 +137,9 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - HOME
-  - {t: UP ARROW, type: held}
+  - UP ARROW
   - END
-  - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   - Gui+LEFT ARROW
   - Gui+RIGHT ARROW
