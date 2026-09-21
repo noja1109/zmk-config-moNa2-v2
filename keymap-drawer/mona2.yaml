@@ -42,7 +42,7 @@ layers:
   - {t: '&to_layer_0 LANG2', h: '3'}
   - {t: '&to_layer_0 LANG1', h: '3'}
   - {t: ENTER, h: '1'}
-  - PSCRN
+  - ESCAPE
   '1':
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
