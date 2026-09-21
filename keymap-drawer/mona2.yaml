@@ -27,7 +27,7 @@ layers:
   - C
   - V
   - B
-  - {t: '@', h: '4'}
+  - {t: PRINTSCREEN, h: '4'}
   - '-'
   - N
   - M
@@ -146,7 +146,7 @@ layers:
   - Ctl+Gui+LEFT ARROW
   - Ctl+Gui+RIGHT ARROW
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - PAGE UP
   - LEFT ARROW
   - DOWN ARROW
   - RIGHT ARROW
@@ -158,10 +158,10 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - DELETE
-  - PAGE UP
   - PAGE DOWN
+  - DELETE
+  - '&mkp MB5'
+  - '&mkp MB4'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
